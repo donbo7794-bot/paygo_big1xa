@@ -95,7 +95,7 @@ export default function UpgradePaymentPage() {
                 <span>🔢</span> Account Number
               </p>
               <div className="flex items-center justify-between">
-                <p className="font-bold">a7079124311</p>
+                <p className="font-bold">7058165057</p>
                 <button
                   onClick={handleCopyAccountNumber}
                   className="bg-orange-400 text-white px-3 py-1 rounded text-sm"
