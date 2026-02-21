@@ -32,7 +32,7 @@ export default function UpgradePaymentPage() {
   }
 
   const handleCopyAccountNumber = () => {
-    navigator.clipboard.writeText("7079124311")
+    navigator.clipboard.writeText("7058165057")
     setCopiedAccount(true)
     setTimeout(() => setCopiedAccount(false), 2000)
   }
@@ -116,7 +116,7 @@ export default function UpgradePaymentPage() {
               <p className="text-gray-700 mb-1 text-sm flex items-center gap-1">
                 <span>🚹</span> Account Name
               </p>
-              <p className="font-bold">Paygo-Arowojolu abidemi</p>
+              <p className="font-bold">Paygo-ENISAN OMOLRRE</p>
             </div>
           </div>
 
