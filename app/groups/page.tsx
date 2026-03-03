@@ -23,7 +23,7 @@ export default function GroupsPage() {
   }, [router])
 
   const handleJoinWhatsApp = () => {
-    window.open("https://chat.whatsapp.com/HxwsYUznz7J2fYsxvxMA6H?mode=gi_t?mode=gi_t", "_blank")
+    window.open("https://chat.whatsapp.com/F8kK2ll9UYA9SNLHS3XVQ1?mode=gi_t?mode=gi_t?mode=gi_t", "_blank")
   }
 
   const handleJoinTelegram = () => {
