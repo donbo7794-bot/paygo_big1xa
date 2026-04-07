@@ -101,7 +101,7 @@ export default function PaymentPage() {
 
             <div>
               <p className="text-gray-700 mb-1">Bank Name</p>
-              <p className="font-bold">GT </p>
+              <p className="font-bold">STERLING</p>
             </div>
 
             <div>
