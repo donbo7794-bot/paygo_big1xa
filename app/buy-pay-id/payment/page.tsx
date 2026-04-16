@@ -101,12 +101,12 @@ export default function PaymentPage() {
 
             <div>
               <p className="text-gray-700 mb-1">Bank Name</p>
-              <p className="font-bold">STERLING</p>
+              <p className="font-bold">MOMO</p>
             </div>
 
             <div>
               <p className="text-gray-700 mb-1">Account Name</p>
-              <p className="font-bold">ENISAN MICHEAL</p>
+              <p className="font-bold">RABIU BABATUNDE</p>
             </div>
           </div>
 
